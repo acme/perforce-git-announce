@@ -12,7 +12,8 @@ December 15th 2008.
 
 Originally, Perl was developed using the Revision Control System (RCS). In
 March 1997, Perl moved to using the Perforce Software Configuration
-Management System on servers and sysadmin time donated by ActiveState.
+Management System on servers and systems administration time donated
+by ActiveState.
 
 Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Like Perl, Git has lots of
@@ -32,10 +33,11 @@ toolsets available to our developers and our committers.
 
 The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
 
-The hardware behind this URL and sysadmin time to maintain it is donated
-by Booking.com. Booking.com has also recently donated $50,000 to The
-Perl Foundation, to aid in the further development and maintenance of
-the Perl programming language in general, and Perl 5.10 in particular.
+The hardware behind this URL and the systems administration time to
+maintain it is donated by Booking.com. Booking.com has also recently
+donated $50,000 to The Perl Foundation, to aid in the further development
+and maintenance of the Perl programming language in general, and Perl
+5.10 in particular.
 
 -- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18
 
