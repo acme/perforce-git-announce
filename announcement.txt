@@ -50,6 +50,12 @@ donated $50,000 to The Perl Foundation, to aid in the further development
 and maintenance of the Perl programming language in general, and Perl
 5.10 in particular.
 
+Nicholas Clark, who released Perl 5.8.9 this week, is looking forward
+to Git giving him the ability to work offline or online: "Perforce is
+great when I have a network connection, but until now those times when
+I've been trying to develop on trains or planes, at stations or airports,
+I'm back in the dark ages 'before version control'. Git will solve this".
+
 Many thanks to everyone involved in this project, especially Sam Vilain
 who did all the hard work in performing the Perforce conversion and
 merging of all the historical versions of Perl that were floating on
