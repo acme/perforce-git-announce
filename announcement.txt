@@ -1,29 +1,29 @@
-London, UK - Perl announces that it has migrated its version control
-system to Git.
+London, UK - Perl announces that it has migrated its code to the Git
+version control system.
 
 Perl is a high-level, general-purpose, interpreted, dynamic programming
 language. Perl was originally developed by Larry Wall, a linguist working
 as a systems administrator for NASA, in 1987, as a general purpose Unix
 scripting language to make report processing easier.
 
-Perl 1.000 was first released on December 18th 1987, 21 years ago today.
+Perl 1.000 was first released on December 18th 1987, 21 years ago today,
+the latest version of Perl 5.8 (5.8.9) was released three days ago on
+December 15th 2008.
 
 Originally, Perl was developed using the Revision Control System (RCS). In
-1997, Perl moved to using the Perforce Software Configuration Management
-System on servers and sysadmin time donated by ActiveState.
+March 1997, Perl moved to using the Perforce Software Configuration
+Management System on servers and sysadmin time donated by ActiveState.
 
 Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Like Perl, Git has lots of
 flexibility, "There's More Than One Way To Do It", and extensibility.
 
-Booking.com is donating hardware and sysadmin time to provide the
-servers for the new git master for Perl 5.
-
-Booking.com has recently donated $50,000 to The Perl Foundation, to
-aid in the further development and maintenance of the Perl programming
-language in general, and Perl 5.10 in particular.
-
 The Perl Git repository is located at http://perl5.git.perl.org/perl.git
+
+The hardware behind this URL and sysadmin time to maintain it is donated
+by Booking.com. Booking.com has also recently donated $50,000 to The
+Perl Foundation, to aid in the further development and maintenance of
+the Perl programming language in general, and Perl 5.10 in particular.
 
 About ActiveState (http://www.activestate.com/) - ActiveState
 creates professional software development tools, programming language
