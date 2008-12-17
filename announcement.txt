@@ -4,38 +4,41 @@ version control system.
 Open Source becomes more open as the Perl programming language welcomes
 a new generation of programmers by using the Git version control system.
 
-Perl 5 is a high-level, general-purpose, interpreted, dynamic programming
-language. Perl was originally developed by Larry Wall, a linguist working
-as a systems administrator for NASA, in 1987, as a general purpose Unix
+Perl 5 is a high-level, general-purpose, dynamic programming
+language. Perl was originally developed by Larry Wall, a linguist working as a
+systems administrator for NASA.  It was meant to be a general purpose Unix
 scripting language to make report processing easier. Many companies
-such as the British Broadcasting Corporation, Amazon.com, LiveJournal,
-Ticketmaster, Craigslist and IMDb use Perl 5 extensively.
+now use Perl 5 extensively; among them are the British Broadcasting
+Corporation, Amazon.com, LiveJournal, Ticketmaster, Craigslist and IMDb.
 
-Perl 1.000 was first released on December 18th 1987, 21 years ago today,
-the latest version of Perl 5.8 (5.8.9) was released three days ago on
-December 15th 2008.
+Perl 1.000 was first released on December 18th 1987, 21 years ago today.  The
+most recent major version of Perl 5 (5.10.0) was released one year ago today.
 
 Originally, Perl was developed using the Revision Control System (RCS). In
-March 1997, Perl moved to using the Perforce Software Configuration
-Management System on servers and systems administration time donated by
-ActiveState. Perl used a no-cost license for Perforce, as an open source
-project, and this enabled development for the last ten years.
+March 1997, Perl moved to using the Perforce Software Configuration Management
+System.  The Perforce repository was graciously hosted and maintained, free of
+charge, by ActiveState.  As an open source project, Perl received a no-cost
+license for Perforce, which enabled the development of Perl for the last ten
+years.
 
-Git is an open source version control system designed to handle very
-large projects with speed and efficiency. Like Perl, Git has lots of
-flexibility, "There's More Than One Way To Do It", and extensibility.
+Git is an open source version control system designed to handle very large
+projects with speed and efficiency. Like Perl, Git is highly flexible and
+extensible. Perl's motto, "There's More Than One Way To Do It!" is a good fit
+for Git, too.
 
-The migration to Git will open Perl 5 development up to the widest
-audience of possible contributors by removing any barriers to access. Git
-provides an integrated repository browser and can be accessed over a
-number of different protocols.
+Perforce provided the core developers with powerful tools, but these tools were
+not available to users outside the core team.  The migration to Git will open
+Perl 5 development up to the widest audience of possible contributors by
+removing any barriers to access. Git provides an integrated repository browser
+and can be accessed over a number of different protocols.
 
-Using Git also opens up the full repository (including every version
-ever released), allows development while disconnected from the internet,
-reduces the workload on core committers, allows experimental projects to
-operate under version control, aids integration of branches maintained
-outside the official repository, and generally makes more advanced
-toolsets available to our developers and our committers.
+The Perl Git repostiory includes every version of Perl ever released, as well
+as ever revision ever made during development.  With a public repository and
+Git's extensive support for distributed and offline work, working on Perl's
+source becomes easier for everyone involved.  Core committers have less
+administrative work to do, developers outside the core team can easily work on
+experimental branches, and a vast array of improved repository analysis tools
+are now available.
 
 The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
 
