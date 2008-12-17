@@ -37,6 +37,8 @@ by Booking.com. Booking.com has also recently donated $50,000 to The
 Perl Foundation, to aid in the further development and maintenance of
 the Perl programming language in general, and Perl 5.10 in particular.
 
+-- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18 
+
 About ActiveState (http://www.activestate.com/) - ActiveState
 creates professional software development tools, programming language
 distributions, and business solutions for dynamic languages, and practical
