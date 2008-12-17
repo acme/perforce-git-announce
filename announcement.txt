@@ -1,6 +1,9 @@
 London, UK - Perl announces that it has migrated its code to the Git
 version control system.
 
+Open Source becomes more open as the Perl programming language welcomes
+a new generation of programmers by using the Git version control system.
+
 Perl 5 is a high-level, general-purpose, interpreted, dynamic programming
 language. Perl was originally developed by Larry Wall, a linguist working
 as a systems administrator for NASA, in 1987, as a general purpose Unix
