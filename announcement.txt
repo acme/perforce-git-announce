@@ -44,7 +44,11 @@ donated $50,000 to The Perl Foundation, to aid in the further development
 and maintenance of the Perl programming language in general, and Perl
 5.10 in particular.
 
-Many thanks to everyone involved in this project, especially Sam Vilain.
+Many thanks to everyone involved in this project, especially Sam Vilain
+who did all the hard work in performing the Perforce conversion and
+merging of all the historical versions of Perl that were floating on
+the internet, producing the first ever unified repository of all the
+Perl changes.
 
 -- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18
 
