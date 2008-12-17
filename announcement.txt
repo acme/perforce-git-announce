@@ -17,8 +17,9 @@ December 15th 2008.
 
 Originally, Perl was developed using the Revision Control System (RCS). In
 March 1997, Perl moved to using the Perforce Software Configuration
-Management System on servers and systems administration time donated
-by ActiveState.
+Management System on servers and systems administration time donated by
+ActiveState. Perl used a no-cost license for Perforce, as an open source
+project, and this enabled development for the last ten years.
 
 Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Like Perl, Git has lots of
