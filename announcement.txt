@@ -9,7 +9,7 @@ scripting language to make report processing easier.
 Perl 1.000 was first released on December 18th 1987, 21 years ago today.
 
 Originally, Perl was developed using the Revision Control System (RCS). In
-time, Perl moved to using the Perforce Software Configuration Management
+1997, Perl moved to using the Perforce Software Configuration Management
 System on servers and sysadmin time donated by ActiveState.
 
 Git is an open source version control system designed to handle very
