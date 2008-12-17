@@ -1,7 +1,7 @@
 London, UK - Perl announces that it has migrated its code to the Git
 version control system.
 
-Perl is a high-level, general-purpose, interpreted, dynamic programming
+Perl 5 is a high-level, general-purpose, interpreted, dynamic programming
 language. Perl was originally developed by Larry Wall, a linguist working
 as a systems administrator for NASA, in 1987, as a general purpose Unix
 scripting language to make report processing easier.
@@ -18,10 +18,10 @@ Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Like Perl, Git has lots of
 flexibility, "There's More Than One Way To Do It", and extensibility.
 
-The migration to Git will open Perl development up to the widest audience
-of possible contributors by removing any barriers to access. Git provides
-an integrated repository browser and can be accessed over a number of
-different protocols.
+The migration to Git will open Perl 5 development up to the widest
+audience of possible contributors by removing any barriers to access. Git
+provides an integrated repository browser and can be accessed over a
+number of different protocols.
 
 Using Git also opens up the full repository (including every version
 ever released), allows development while disconnected from the internet,
@@ -30,14 +30,14 @@ operate under version control, aids integration of branches maintained
 outside the official repository, and generally makes more advanced
 toolsets available to our developers and our committers.
 
-The Perl Git repository is located at http://perl5.git.perl.org/perl.git
+The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
 
 The hardware behind this URL and sysadmin time to maintain it is donated
 by Booking.com. Booking.com has also recently donated $50,000 to The
 Perl Foundation, to aid in the further development and maintenance of
 the Perl programming language in general, and Perl 5.10 in particular.
 
--- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18 
+-- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18
 
 About ActiveState (http://www.activestate.com/) - ActiveState
 creates professional software development tools, programming language
