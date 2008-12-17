@@ -17,8 +17,7 @@ large projects with speed and efficiency. Like Perl, Git has lots of
 flexibility, "There's More Than One Way To Do It", and extensibility.
 
 Booking.com is donating hardware and sysadmin time to provide the
-servers for the new git master for Perl 5, which will go live in the
-next few days.
+servers for the new git master for Perl 5.
 
 Booking.com has recently donated $50,000 to The Perl Foundation, to
 aid in the further development and maintenance of the Perl programming
