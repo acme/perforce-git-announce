@@ -1,0 +1,55 @@
+London, UK - Perl announces that it has migrated its version control
+system to Git.
+
+Perl is a high-level, general-purpose, interpreted, dynamic programming
+language. Perl was originally developed by Larry Wall, a linguist working
+as a systems administrator for NASA, in 1987, as a general purpose Unix
+scripting language to make report processing easier.
+
+Perl 1.000 was first released on December 18th 1987, 21 years ago today.
+
+Originally, Perl was developed using the Revision Control System (RCS). In
+time, Perl moved to using the Perforce Software Configuration Management
+System on servers and sysadmin time donated by ActiveState.
+
+Git is an open source version control system designed to handle very
+large projects with speed and efficiency. Like Perl, Git has lots of
+flexibility, "There's More Than One Way To Do It", and extensibility.
+
+Booking.com is donating hardware and sysadmin time to provide the
+servers for the new git master for Perl 5, which will go live in the
+next few days.
+
+Booking.com has recently donated $50,000 to The Perl Foundation, to
+aid in the further development and maintenance of the Perl programming
+language in general, and Perl 5.10 in particular.
+
+The Perl Git repository is located at http://perl5.git.perl.org/perl.git
+
+About ActiveState (http://www.activestate.com/) - ActiveState
+creates professional software development tools, programming language
+distributions, and business solutions for dynamic languages, and practical
+tools and applications for social networking platforms. ActiveState solves
+complex problems and produces cool and useful applications that help
+people live more productive and enjoyable lives. ActiveState technology
+"just works." ActiveState is owned by its employees and Pender Financial
+Group, a publicly traded investment company focused on technology in
+British Columbia.
+
+About Booking.com (http://www.booking.com/) | Booking.com is part of
+Priceline.com (Nasdaq: PCLN). Its website attracts an average of 30
+million unique visitors each month. Booking.com works with more than
+57,000 affiliated hotels in 15,000 destinations around the world. Its
+services are available in 21 languages. Booking.com currently has 24
+offices in Amsterdam, Athens, Barcelona, Berlin, Cambridge, Cape Town,
+Dubai, Dublin, London, Loulé (Portugal), Lyon, Madrid, Moscow, Munich,
+New York, Orlando, Paris, Rome, San Francisco, Sydney, Singapore,
+Stockholm, Vienna and Warsaw.
+
+About The Perl Foundation (http://www.perlfoundation.org/) | The Perl
+Foundation is dedicated to the advancement of the Perl programming
+language through open discussion, collaboration, design, and code. The
+Perl Foundation coordinates the efforts of numerous grass-roots Perl-based
+groups, including: International Yet Another Perl Conferences (YAPC's),
+Carries the legal responsibility for Perl 5 and Perl 6 and the Artistic
+and Artistic 2.0 licenses, perl.org, Perl Mongers, and PerlMonks.
