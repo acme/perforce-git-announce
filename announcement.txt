@@ -18,12 +18,17 @@ Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Like Perl, Git has lots of
 flexibility, "There's More Than One Way To Do It", and extensibility.
 
-Using Git opens up the full repository to the widest audience (including
-every version ever released), allows development while disconnected from
-the internet, reduces the workload on core committers, allows experimental
-projects to operate under version control, aids integration of branches
-maintained outside the official repository, and generally makes more
-advanced toolsets available to our developers and our committers.
+The migration to Git will open Perl development up to the widest audience
+of possible contributors by removing any barriers to access. Git provides
+an integrated repository browser and can be accessed over a number of
+different protocols.
+
+Using Git also opens up the full repository (including every version
+ever released), allows development while disconnected from the internet,
+reduces the workload on core committers, allows experimental projects to
+operate under version control, aids integration of branches maintained
+outside the official repository, and generally makes more advanced
+toolsets available to our developers and our committers.
 
 The Perl Git repository is located at http://perl5.git.perl.org/perl.git
 
