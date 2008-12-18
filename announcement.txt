@@ -1,16 +1,16 @@
-Title: Perl now uses Git for version control
+Title: Perl 5 now uses Git for version control
 
 HOLLAND, Michigan - The Perl Foundation has migrated Perl 5 to the Git
 version control system.
 
-More programmers than ever can now benefit from Perl. Benefits include:
+More programmers than ever can now benefit from Perl 5. Benefits include:
 
 - With a public repository and Git's extensive support for distributed
 and offline work, working on Perl 5's source becomes easier for everyone
 involved.
 
 - Everyone can now access the Perl 5 development tools, not just the
-core Perl team as before.
+core Perl 5 team as before.
 
 - Core committers have less admin work to do, developers outside the
 core team can easily work on experimental branches.
