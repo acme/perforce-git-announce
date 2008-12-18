@@ -64,7 +64,7 @@ custom tools to transform the complicated Perforce history and merge in
 all of the historical versions of Perl from the past 21 years in order
 produce the first ever unified repository of every single change to Perl.
 
-About ActiveState (http://www.activestate.com/) - ActiveState
+About ActiveState (http://www.activestate.com/) | ActiveState
 creates professional software development tools, programming language
 distributions, and business solutions for dynamic languages, and practical
 tools and applications for social networking platforms. ActiveState solves
