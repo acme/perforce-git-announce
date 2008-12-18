@@ -1,26 +1,43 @@
-HOLLAND, Michigan - The Perl Foundation announces that it has migrated
-Perl 5 to the Git version control system.
+Title: Perl now uses Git for version control
 
-Open Source becomes more open as the Perl programming language welcomes
-a new generation of programmers by using the Git version control system.
+HOLLAND, Michigan - The Perl Foundation has migrated Perl 5 to the Git
+version control system.
 
-Perl 5 is a high-level, general-purpose, dynamic programming
-language. Perl was originally developed by Larry Wall, a linguist working
-as a systems administrator for NASA. It was meant to be a general purpose
-Unix scripting language to make report processing easier. Many companies
-now use Perl 5 extensively; among them are the British Broadcasting
-Corporation, Amazon.com, LiveJournal, Ticketmaster, Craigslist and IMDb.
+More programmers than ever can now benefit from Perl. Benefits include:
 
-Perl 1.000 was first released on December 18th 1987, 21 years ago today.
-The most recent major version of Perl 5 (5.10.0) was released one year
-ago today.
+- With a public repository and Git's extensive support for distributed
+and offline work, working on Perl 5's source becomes easier for everyone
+involved.
 
-Originally, Perl was developed using the Revision Control System (RCS). In
-March 1997, Perl moved to using the Perforce Software Configuration
-Management System. The Perforce repository was graciously hosted and
-maintained, free of charge, by ActiveState. As an open source project,
-Perl received a no-cost license for Perforce, which enabled the
-development of Perl for the last ten years.
+- Everyone can now access the Perl 5 development tools, not just the
+core Perl team as before.
+
+- Core committers have less admin work to do, developers outside the
+core team can easily work on experimental branches.
+
+- Vast array of improved repository analysis tools are now available.
+
+- Access over many protocols.
+
+- Includes every version of Perl 5 ever released, as well as every
+revision made during development.
+
+The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
+
+In true open source style, the conversion to Git was done by Sam Vilain
+both in his spare time and time donated by his employer, Catalyst IT. He
+spent more than one year writing custom tools to transform 21 years of
+historical Perl versions to produce the first ever unified repository
+of every single change to Perl.
+
+Perl 5 is used by many businesses including the BBC, Amazon.com,
+LiveJournal, Ticketmaster, Craigslist and IMDb. It was originally
+developed by Larry Wall, a linguist working as a systems administrator for
+NASA. Perl grew into a high-level, general-purpose, dynamic programming
+language and is now used primarily in website development.
+
+Perl 1.000 was released on December 18th 1987 - 21 years ago. The most
+recent major version of Perl 5 (5.10.0) was released one year ago.
 
 Git is an open source version control system designed to handle very
 large projects with speed and efficiency. Started by Linus Torvalds, the
@@ -28,51 +45,34 @@ inventor of Linux, in order to handle the vast number of contributions
 to the Linux Kernel, Git is highly flexible and extensible. Perl's motto,
 "There's More Than One Way To Do It!" perfectly matches the Git workflow.
 
-Perforce provided the core developers with powerful tools, but these
-tools were not available to users outside the core team. The migration
-to Git will open Perl 5 development up to the widest audience of
-possible contributors by removing any barriers to access. Git provides
-an integrated repository browser and can be accessed over a number of
-different protocols.
-
-The Perl Git repository includes every version of Perl 5 ever released,
-as well as every revision ever made during development. With a public
-repository and Git's extensive support for distributed and offline
-work, working on Perl's source becomes easier for everyone involved.
-Core committers have less administrative work to do, developers outside
-the core team can easily work on experimental branches, and a vast array
-of improved repository analysis tools are now available.
-
-The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
-
-The hardware behind this URL and the systems administration time to
-maintain it is donated by Booking.com. Booking.com has also recently
-donated $50,000 to The Perl Foundation, to aid in the further development
-and maintenance of the Perl programming language in general, and Perl
-5.10 in particular.
-
 Nicholas Clark, the manager for Perl 5.8.9 which was released this week
-said "I'm looking forward to to Git giving me the ability to work either
+said "I'm looking forward to Git giving me the ability to work either
 online or offline. Perforce is great when I have a network connection,
 but until now those times when I've been trying to develop on trains
 or planes, at stations or airports, I'm back in the 'dark ages' before
 version control. Git solves this problem and more".
 
-The conversion was done by Sam Vilain both in his spare time and time
-donated by his employer, Catalyst IT. He spent over a year writing the
-custom tools to transform the complicated Perforce history and merge in
-all of the historical versions of Perl from the past 21 years in order
-produce the first ever unified repository of every single change to Perl.
+The hardware behind this and the systems administration time to maintain
+it is donated by Booking.com. Booking.com has also recently donated
+$50,000 to The Perl Foundation, to aid in the further development and
+maintenance of the Perl programming language in general, and Perl 5.10
+in particular.
 
-About ActiveState (http://www.activestate.com/) | ActiveState
-creates professional software development tools, programming language
-distributions, and business solutions for dynamic languages, and practical
-tools and applications for social networking platforms. ActiveState solves
-complex problems and produces cool and useful applications that help
-people live more productive and enjoyable lives. ActiveState technology
-"just works." ActiveState is owned by its employees and Pender Financial
-Group, a publicly traded investment company focused on technology in
-British Columbia.
+Perl originally used the Revision Control System (RCS) until March
+1997 when it switched to the Perforce Software Configuration Management
+System. The Perforce repository was graciously hosted and maintained,
+free of charge, by ActiveState. Perforce provided the core developers
+with powerful tools, but these tools were not available to users outside
+the core team. The switch to Git removes this barrier.
+
+
+About The Perl Foundation (http://www.perlfoundation.org/) | The Perl
+Foundation is dedicated to the advancement of the Perl programming
+language through open discussion, collaboration, design, and code. The
+Perl Foundation coordinates the efforts of numerous grass-roots Perl-based
+groups, including: International Yet Another Perl Conferences (YAPC's),
+Carries the legal responsibility for Perl 5 and Perl 6 and the Artistic
+and Artistic 2.0 licenses, perl.org, Perl Mongers, and PerlMonks.
 
 About Booking.com (http://www.booking.com/) | Booking.com is part of
 Priceline.com (Nasdaq: PCLN). Its website attracts an average of 30
@@ -84,18 +84,19 @@ Dubai, Dublin, London, Loulé (Portugal), Lyon, Madrid, Moscow, Munich,
 New York, Orlando, Paris, Rome, San Francisco, Sydney, Singapore,
 Stockholm, Vienna and Warsaw.
 
+About ActiveState (http://www.activestate.com/) | ActiveState
+creates professional software development tools, programming language
+distributions, and business solutions for dynamic languages, and practical
+tools and applications for social networking platforms. ActiveState solves
+complex problems and produces cool and useful applications that help
+people live more productive and enjoyable lives. ActiveState technology
+"just works". ActiveState is owned by its employees and Pender Financial
+Group, a publicly traded investment company focused on technology in
+British Columbia.
+
 About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
-is New Zealand's premiere Open Source development house.  Catalyst looks
+is New Zealand's premiere Open Source development house. Catalyst looks
 after the development requirements for the NZ Electoral Enrolment Centre,
 manage the .NZ registry, the largest NZ newspaper's online presence,
 the NZ TAB and many other exciting projects, and are organising the 2010
 Australasian Linux Conference to be held in Wellington, New Zealand.
-
-About The Perl Foundation (http://www.perlfoundation.org/) | The Perl
-Foundation is dedicated to the advancement of the Perl programming
-language through open discussion, collaboration, design, and code. The
-Perl Foundation coordinates the efforts of numerous grass-roots Perl-based
-groups, including: International Yet Another Perl Conferences (YAPC's),
-Carries the legal responsibility for Perl 5 and Perl 6 and the Artistic
-and Artistic 2.0 licenses, perl.org, Perl Mongers, and PerlMonks.
-
