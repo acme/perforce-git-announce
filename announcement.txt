@@ -34,7 +34,7 @@ possible contributors by removing any barriers to access. Git provides
 an integrated repository browser and can be accessed over a number of
 different protocols.
 
-The Perl Git repostiory includes every version of Perl ever released,
+The Perl Git repository includes every version of Perl ever released,
 as well as ever revision ever made during development. With a public
 repository and Git's extensive support for distributed and offline
 work, working on Perl's source becomes easier for everyone involved.
