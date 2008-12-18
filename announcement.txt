@@ -84,6 +84,13 @@ Dubai, Dublin, London, Loulé (Portugal), Lyon, Madrid, Moscow, Munich,
 New York, Orlando, Paris, Rome, San Francisco, Sydney, Singapore,
 Stockholm, Vienna and Warsaw.
 
+About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
+is New Zealand's premiere Open Source development house.  Catalyst looks
+after the development requirements for the NZ Electoral Enrolment Centre,
+manage the .NZ registry, the largest NZ newspaper's online presence,
+the NZ TAB and many other exciting projects, and are organising the 2010
+Australasian Linux Conference to be held in Wellington, New Zealand.
+
 About The Perl Foundation (http://www.perlfoundation.org/) | The Perl
 Foundation is dedicated to the advancement of the Perl programming
 language through open discussion, collaboration, design, and code. The
@@ -92,9 +99,3 @@ groups, including: International Yet Another Perl Conferences (YAPC's),
 Carries the legal responsibility for Perl 5 and Perl 6 and the Artistic
 and Artistic 2.0 licenses, perl.org, Perl Mongers, and PerlMonks.
 
-About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
-is New Zealand's premiere Open Source development house.  Catalyst looks
-after the development requirements for the NZ Electoral Enrolment Centre,
-manage the .NZ registry, the largest NZ newspaper's online presence,
-the NZ TAB and many other exciting projects, and are organising the 2010
-Australasian Linux Conference to be held in Wellington, New Zealand.
