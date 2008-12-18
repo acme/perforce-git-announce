@@ -59,8 +59,8 @@ I'm back in the dark ages 'before version control'. Git will solve this".
 Many thanks to everyone involved in this project, especially Sam Vilain
 from Catalyst IT, who did all the hard work in performing the Perforce
 conversion and merging of all the historical versions of Perl that were
-floating on the internet, producing the first ever unified repository of
-all the Perl changes.
+floating on the internet, producing the first ever unified repository
+of all the Perl changes.
 
 -- Léon Brocard, on behalf of the Perl5 Porters, 2008-12-18
 
@@ -93,9 +93,8 @@ Carries the legal responsibility for Perl 5 and Perl 6 and the Artistic
 and Artistic 2.0 licenses, perl.org, Perl Mongers, and PerlMonks.
 
 About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
-is New Zealand's premiere Open Source development house.  Catalyst
-looks after the development requirements for the NZ Electoral
-Enrolment Centre, manage the .NZ registry, the largest NZ newspaper's
-online presence, the NZ TAB and many other exciting projects, and are
-organising the 2010 Australasian Linux Conference to be held in
-Wellington, New Zealand.
+is New Zealand's premiere Open Source development house.  Catalyst looks
+after the development requirements for the NZ Electoral Enrolment Centre,
+manage the .NZ registry, the largest NZ newspaper's online presence,
+the NZ TAB and many other exciting projects, and are organising the 2010
+Australasian Linux Conference to be held in Wellington, New Zealand.
