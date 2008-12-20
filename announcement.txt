@@ -1,4 +1,4 @@
-Title: Perl 5 now uses Git for version control
+Perl 5 now uses Git for version control
 
 HOLLAND, Michigan - The Perl Foundation has migrated Perl 5 to the Git
 version control system.
@@ -83,16 +83,6 @@ offices in Amsterdam, Athens, Barcelona, Berlin, Cambridge, Cape Town,
 Dubai, Dublin, London, Loulé (Portugal), Lyon, Madrid, Moscow, Munich,
 New York, Orlando, Paris, Rome, San Francisco, Sydney, Singapore,
 Stockholm, Vienna and Warsaw.
-
-About ActiveState (http://www.activestate.com/) | ActiveState
-creates professional software development tools, programming language
-distributions, and business solutions for dynamic languages, and practical
-tools and applications for social networking platforms. ActiveState solves
-complex problems and produces cool and useful applications that help
-people live more productive and enjoyable lives. ActiveState technology
-"just works". ActiveState is owned by its employees and Pender Financial
-Group, a publicly traded investment company focused on technology in
-British Columbia.
 
 About Catalyst IT (NZ) Ltd (http://www.catalyst.net.nz/) | Catalyst IT
 is New Zealand's premiere Open Source development house. Catalyst looks
