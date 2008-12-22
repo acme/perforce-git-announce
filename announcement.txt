@@ -1,51 +1,61 @@
 Perl 5 now uses Git for version control
 
 HOLLAND, Michigan - The Perl Foundation has migrated Perl 5 to the Git
-version control system.
+version control system, making it easier than ever for Perl's development
+team to continue to improve the language that powers many websites.
 
-More programmers than ever can now benefit from Perl 5. Benefits include:
+Moving from Perforce to git provides a number of benefits to the Perl
+community:
 
 - With a public repository and Git's extensive support for distributed
 and offline work, working on Perl 5's source becomes easier for everyone
 involved.
 
-- Everyone can now access the Perl 5 development tools, not just the
-core Perl 5 team as before.
+- Because Git is open source, all developers now have equal access to
+the tools required to work on Perl's codebase.
 
-- Core committers have less admin work to do, developers outside the
-core team can easily work on experimental branches.
+- Core committers have less administrative work to do when integrating
+contributed changes.
 
-- Vast array of improved repository analysis tools are now available.
+- Developers outside the core team can more easily work on experimental
+changes to Perl before proposing them for inclusion in the next release.
 
-- Access over many protocols.
+- A vast array of improved repository and change analysis tools are now
+available to Perl's developers.
 
-- Includes every version of Perl 5 ever released, as well as every
-revision made during development.
+- The new Git repository includes every version of Perl 5 ever released,
+as well as every revision made during development.
 
-The Perl 5 Git repository is located at http://perl5.git.perl.org/perl.git
+Interested developers can get a copy of the Perl 5 Git repository at
+at http://perl5.git.perl.org/perl.git
 
-In true open source style, the conversion to Git was done by Sam Vilain
-both in his spare time and time donated by his employer, Catalyst IT. He
-spent more than one year writing custom tools to transform 21 years of
-historical Perl versions to produce the first ever unified repository
-of every single change to Perl.
+In true open source style, Sam Vilain converted Perl's history from
+Perforce to Git. He did the work both in his spare time and in time
+donated by his employer, Catalyst IT. He spent more than a year building
+custom tools to transform 21 years of Perl history into the first
+ever unified repository of every single change to Perl. In addition
+to changes from Perforce, Sam patched together a comprehensive view
+of Perl's history incorporating publicly available snapshot releases,
+changes from historical mailing list archives and patch sets recovered
+from the hard drives of previous Perl release engineers.
 
-Perl 5 is used by many businesses including the BBC, Amazon.com,
-LiveJournal, Ticketmaster, Craigslist and IMDb. It was originally
-developed by Larry Wall, a linguist working as a systems administrator for
-NASA. Perl grew into a high-level, general-purpose, dynamic programming
-language and is now used primarily in website development.
+Perl 5 is used by businesses around the world including the BBC,
+Amazon.com, LiveJournal, Ticketmaster, Craigslist and IMDb. Larry Wall
+created Perl in 1987 while working as a systems administrator for NASA.
 
-Perl 1.000 was released on December 18th 1987 - 21 years ago. The most
-recent major version of Perl 5 (5.10.0) was released one year ago.
+Larry released Perl 1.000 on December 18th 1987. Over the past 21 years,
+Perl has grown into a high-level, general-purpose, dynamic programming
+language and is widely used for Web development, Systems Administration,
+Genomics and in many other disciplines. The most recent major version
+of Perl 5 (5.10.0) was released one year ago.
 
 Git is an open source version control system designed to handle very
-large projects with speed and efficiency. Started by Linus Torvalds, the
-inventor of Linux, in order to handle the vast number of contributions
-to the Linux Kernel, Git is highly flexible and extensible. Perl's motto,
+large projects with speed and efficiency. Created by Linus Torvalds,
+the inventor of Linux to handle the vast number of contributions to
+the Linux Kernel, Git is highly flexible and extensible. Perl's motto,
 "There's More Than One Way To Do It!" perfectly matches the Git workflow.
 
-Nicholas Clark, the manager for Perl 5.8.9 which was released this week
+Nicholas Clark, the manager for Perl 5.8.9 which was released this week,
 said "I'm looking forward to Git giving me the ability to work either
 online or offline. Perforce is great when I have a network connection,
 but until now those times when I've been trying to develop on trains
@@ -64,7 +74,6 @@ System. The Perforce repository was graciously hosted and maintained,
 free of charge, by ActiveState. Perforce provided the core developers
 with powerful tools, but these tools were not available to users outside
 the core team. The switch to Git removes this barrier.
-
 
 About The Perl Foundation (http://www.perlfoundation.org/) | The Perl
 Foundation is dedicated to the advancement of the Perl programming
